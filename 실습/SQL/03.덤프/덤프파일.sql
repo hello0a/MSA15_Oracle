@@ -29,5 +29,3 @@ exp userid=joeun/123456 ^
 file='C:\AYA14\Oracle\실습\SQL\03.덤프\joeun.dmp' ^
 log='C:\AYA14\Oracle\실습\SQL\03.덤프\joeun.log'
 ----------------------------------------------------------------------
--- 72. 테이블 MS_BOARD 에서 WRITER 속성을 아래 같이 데이터 타입을 변경하고,
--- 테이블 MS_USER 의 USER_NO를 참조하는 외래키로 지정하는 SQL 작성하시오.
